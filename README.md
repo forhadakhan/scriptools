@@ -2,4 +2,4 @@
 
 ### Use scripts as a tool.
 
-- [Convert images into PDF](./image-to-pdf.md) (using magick)
+- [Convert images into PDF](./guide/image-to-pdf.md) (using magick)
