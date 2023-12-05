@@ -1,7 +1,7 @@
-# Script Tools
+<h1 align="center"> Script Tools </h1>
 
-### Use scripts as a tool. 
-#### Use the CLI or an executable file to run those scripts.
+<p align="center"> Use scripts as a tool through the CLI or an executable file. </p>
+
 --- 
 
 
